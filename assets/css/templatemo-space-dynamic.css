@@ -1574,4 +1574,11 @@ responsive
   .phone-info h4 span i {
     margin-left: 0px;
   }
+  .main-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background: #fff;
+  }
 }
